@@ -20,11 +20,11 @@
 - [❓ FAQ](#faq)
 - [📝 License](#license)
 
-# 📖 [Kazim's Portfolio] <a name="about-project"></a>
+# 📖 [Afghanistan Developers Confrence] <a name="about-project"></a>
 
 > You can find my recent works here. This is also a direct way to contact with me
 
-**[Kazim's Portfolio]** is a...
+**[Afghanistan Developers Confrence]** is a...
 
 ## 🛠 Built With <a name="built-with"></a>
 HTML 
@@ -57,6 +57,10 @@ JAVASCRIPT
 ## 🚀 Live Demo <a name="live-demo"></a>
 
 - [Live Demo Link](https://kazim110.github.io)
+
+## 💻 Loom Video for Introduction<a name="loom-video"></a>
+
+- [Loom Video Link](https://www.loom.com/share/c3f2ab810ae74f3989bd9f2965907a32)
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
@@ -96,7 +100,14 @@ npm start
 
 - GitHub: [@githubhandle](https://github.com/kazim110)
 - Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/kazim-mohammadi-89aa4a1aa/)
+
+## 👥 UI Designers <a name="authors">Cindy Shin</a>
+
+👤 **Designer1**
+
+- Behance: [behance](https://www.behance.net/adagio07)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/adagio07/)
 
 
 ## 🔭 Future Features <a name="future-features"></a>
