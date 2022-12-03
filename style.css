@@ -130,6 +130,14 @@ h3 {
   font-size: 18px;
 }
 
+hr {
+  display: block; 
+  height: 1px;
+  border: 0; 
+  border-top: 1px solid #ec5242;
+  width: 30px;
+}
+
 .program-section {
   background-color: #272a31;
   background-image: url(./img/diamond.png);
@@ -194,6 +202,7 @@ h3 {
   flex-direction: column;
   flex-wrap: wrap;
   justify-content: center;
+  max-width: 900px;
 }
 
 .speaker-card {
@@ -251,6 +260,7 @@ h3 {
 }
 
 .top-footer {
+  display: block;
   background-color: #272a31;
   color: #fff;
   padding-top: 20px;
@@ -275,7 +285,7 @@ h3 {
   display: flex;
   flex-direction: row;
   justify-content: space-around;
-  padding: 20px;
+  padding: 20px 20%;
 }
 
 .footer-name {
@@ -534,7 +544,6 @@ h3 {
 
   h3 {
     font-weight: 600;
-    line-height: 3;
   }
 
   .program-section {
@@ -626,5 +635,19 @@ h3 {
 
   .history-card {
     margin-bottom: 8%;
+  }
+
+  .about-footer .top-footer {
+    display: none;
+  }
+
+  .about-footer .down-footer {
+    background-color: #272a31;
+    color: #fff;
+    padding: 7% 10%;
+  }
+
+  .about-footer p {
+    color: #fff;
   }
 }

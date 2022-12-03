@@ -60,7 +60,7 @@ JAVASCRIPT
 
 ## 💻 Loom Video for Introduction<a name="loom-video"></a>
 
-- [Loom Video Link](https://www.loom.com/share/c3f2ab810ae74f3989bd9f2965907a32)
+- [Loom Video Link](https://www.loom.com/share/b374ceff82ef4ba18a0605b8a6dfe9c3)
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
@@ -102,13 +102,6 @@ npm start
 - Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/kazim-mohammadi-89aa4a1aa/)
 
-## 👥 UI Designers <a name="authors">Cindy Shin</a>
-
-👤 **Designer1**
-
-- Behance: [behance](https://www.behance.net/adagio07)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/adagio07/)
-
 
 ## 🔭 Future Features <a name="future-features"></a>
 
@@ -129,11 +122,9 @@ Give a ⭐ if you like this project!
 
 
 
-## 🙏 Acknowledgments <a name="acknowledgements"></a>
+## 🙏 Acknowledgments <a name="acknowledgements">Cindy Shin</a>
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- Design has credited by Candy Shin
 
 
 ## 📝 License <a name="license"></a>
