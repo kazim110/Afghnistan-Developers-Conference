@@ -30,6 +30,7 @@
 HTML 
 CSS 
 JAVASCRIPT
+
 ### Tech Stack <a name="tech-stack"></a>
 
 <details>
