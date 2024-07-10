@@ -27,8 +27,8 @@
 **[Afghanistan Developers Confrence]** is a...
 
 ## 🛠 Built With <a name="built-with"></a>
-HTML 
-CSS 
+HTML, 
+CSS, 
 JAVASCRIPT
 
 ### Tech Stack <a name="tech-stack"></a>
